@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the associated manuscript."
+title: "Portfolio Robust XAI Dataset"
+authors:
+  - family-names: Agal
+    given-names: Sanjay
+  - family-names: Bhatt
+    given-names: Pooja
+  - family-names: Shekokar
+    given-names: Kishori Sudhir
+  - family-names: Gandhi
+    given-names: Ankita
+  - family-names: Soni
+    given-names: Sneha
+repository-code: "https://github.com/drsanjayagal/portfolio-robust-xai-dataset"
+license: CC-BY-4.0
